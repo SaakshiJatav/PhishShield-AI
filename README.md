@@ -117,30 +117,17 @@ Some similar emails may remain below the 98% threshold, and certain source datas
 
 ## 📸 Application Screenshots
 
-Screenshots of the working application will be included in this section.
-
 ### 🖥️ Streamlit Dashboard
-
-Interactive interface for entering and analysing email text.
-
-### 🔎 Email Classification Results
-
-Prediction output showing the email classification and estimated phishing probability.
-
-### 🚀 FastAPI Documentation
-
-Interactive API documentation for testing prediction and health-check endpoints.
-
-<!--
-After uploading screenshots to a folder named screenshots,
-the corresponding images can be displayed using:
-
 ![Streamlit Dashboard](screenshots/streamlit-dashboard.png)
 
-![Email Classification Result](screenshots/prediction-result.png)
+### 🚨 Phishing Email Detection
+![Phishing Prediction](screenshots/prediction-result.png)
 
-![FastAPI Documentation](screenshots/fastapi-docs.png)
--->
+### ✅ Safe Email Detection
+![Safe Email Prediction](screenshots/safe-email-result.png)
+
+### 🚀 FastAPI Documentation
+![FastAPI Swagger UI](screenshots/fastapi-docs.png)
 
 ---
 
