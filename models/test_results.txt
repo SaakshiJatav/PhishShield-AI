@@ -1,0 +1,20 @@
+FINAL TEST RESULTS
+Test emails: 907
+Accuracy: 0.9746
+Precision: 0.9739
+Recall: 0.9760
+F1-score: 0.9750
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.98      0.97      0.97       448
+           1       0.97      0.98      0.97       459
+
+    accuracy                           0.97       907
+   macro avg       0.97      0.97      0.97       907
+weighted avg       0.97      0.97      0.97       907
+
+Confusion Matrix:
+[[436  12]
+ [ 11 448]]
